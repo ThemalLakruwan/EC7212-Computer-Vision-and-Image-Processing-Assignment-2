@@ -1,3 +1,5 @@
+##EC7212-Computer-Vision-and-Image-Processing-Assignment-2
+
 ## File Upload
 ![image](https://github.com/user-attachments/assets/1f31394b-6c87-4355-878d-08cd6976c194)
 
